@@ -1,2 +1,2 @@
 # Olfactometer_Goliath
-#Inintal code courtesy of Charles
+#Initial code courtesy of Charles, thanks bro!
